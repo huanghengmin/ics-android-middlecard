@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="basic_settings_submit_but_text">保存</string>
+    <string name="basic_settings_reset_but_text">重置</string>
+    <string name="basic_settings_back_but_text">返回</string>
+
+</resources>

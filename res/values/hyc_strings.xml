@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="info_incomplete_text">信息不完整</string>
+    <string name="check_text">请勾选</string>
+    <string name="show_certification_text">查看证书</string>
+    <string name="exit_text">退出</string>
+    <string name="exit_confirm_text">确认退出</string>
+    
+</resources>

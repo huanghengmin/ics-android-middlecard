@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <header
+        android:layout_height="wrap_content"
+        android:fragment="com.zd.vpn.ui.VPNStart"
+        android:title="@string/vpn_list_title" />
+    <header
+        android:layout_height="wrap_content"
+        android:fragment="com.zd.vpn.ui.BasicSettingFragment"
+        android:title="@string/basic" />
+    <header
+        android:layout_height="wrap_content"
+        android:fragment="com.zd.vpn.ui.ShowCertificationFragment"
+        android:title="@string/show_certification_text" />
+    <header
+        android:layout_height="wrap_content"
+        android:fragment="com.zd.vpn.ui.Config"
+        android:title="@string/settings_more" />
+    <header
+        android:layout_height="wrap_content"
+        android:fragment="com.zd.vpn.ui.AboutFragment"
+        android:title="@string/about" />
+
+</preference-headers>
